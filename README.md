@@ -18,9 +18,6 @@ I'm looking to break into the world of machine learning, beyond the basics, and 
 
 ### Experience :brain:
 #### Top Languages: <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg" alt="C++ Logo" style="margin-left: 15px;" width="25" height="25"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C++ Logo" style="margin-left: 15px;" width="25" height="25"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="C++ Logo" style="margin-left: 15px;" width="25" height="25">
-#### Still learning: 
-
-#### Technologies:
 
 ## 📢 Get in Touch:
 📧 **Email**: ahmed.tabib0@gmail.com
